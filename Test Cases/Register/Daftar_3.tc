@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check Negative user registration account Input Nama Lengkap * : Null</description>
+   <name>Daftar_3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f98f3779-b33e-4eaf-adc4-7701be9ed748</testCaseGuid>
+</TestCaseEntity>

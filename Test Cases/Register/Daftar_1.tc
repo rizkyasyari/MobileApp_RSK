@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check user registration account no verify</description>
+   <name>Daftar_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ddf85f36-3e62-436b-88bb-39d09ffee4cc</testCaseGuid>
+</TestCaseEntity>
