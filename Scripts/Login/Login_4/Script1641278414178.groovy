@@ -29,7 +29,7 @@ Mobile.tap(findTestObject('Login - Button - Masuk'), 0)
 
 Mobile.verifyElementVisible(findTestObject('null'), 0)
 
-WebUI.delay(5)
+Mobile.delay(5)
 
 Mobile.closeApplication()
 
