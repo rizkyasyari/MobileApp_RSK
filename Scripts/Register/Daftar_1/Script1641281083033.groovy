@@ -35,7 +35,5 @@ Mobile.tap(findTestObject('Register - Button - Daftar'), 0)
 
 Mobile.verifyElementVisible(findTestObject('android.widget.TextView - Silakan verifikasi email kamu terlebih dahulu'), 0)
 
-Mobile.delay(5, FailureHandling.STOP_ON_FAILURE)
-
 Mobile.closeApplication()
 
